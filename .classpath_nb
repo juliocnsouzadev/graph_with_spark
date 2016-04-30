@@ -1,0 +1,16 @@
+<classpath name="SampleProject" id="SampleProject">
+  <classpathentry kind="src" path="src\main\scala" output="target\scala-2.11\classes" scope="compile" managed="false"/>
+  <classpathentry kind="src" path="src\main\java" output="target\scala-2.11\classes" scope="compile" managed="false"/>
+  <classpathentry kind="src" path="target\scala-2.11\src_managed\main" output="target\scala-2.11\classes" scope="compile" managed="true"/>
+  <classpathentry kind="src" path="src\main\resources" output="target\scala-2.11\classes" scope="compile" managed="false"/>
+  <classpathentry kind="src" path="target\scala-2.11\resource_managed\main" output="target\scala-2.11\classes" scope="compile" managed="true"/>
+  <classpathentry kind="src" path="src\test\scala" output="target\scala-2.11\test-classes" scope="test" managed="false"/>
+  <classpathentry kind="src" path="src\test\java" output="target\scala-2.11\test-classes" scope="test" managed="false"/>
+  <classpathentry kind="src" path="target\scala-2.11\src_managed\test" output="target\scala-2.11\test-classes" scope="test" managed="true"/>
+  <classpathentry kind="src" path="src\test\resources" output="target\scala-2.11\test-classes" scope="test" managed="false"/>
+  <classpathentry kind="src" path="target\scala-2.11\resource_managed\test" output="target\scala-2.11\test-classes" scope="test" managed="true"/>
+  <classpathentry kind="lib" path="C:\Users\julio\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.4.jar" scope="compile"/>
+  <classpathentry kind="lib" path="C:\Users\julio\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.4.jar" scope="test"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="output" path="bin"/>
+</classpath>
